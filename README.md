@@ -236,11 +236,3 @@ All pages have been successfully created:
 - Safari (latest)
 - Edge (latest)
 
-## 📄 License
-
-This project is for educational purposes.
-
----
-
-**Need Help?**
-All functionality is documented in `app.js`. Check the comments for detailed explanations.
